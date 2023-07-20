@@ -1,16 +1,17 @@
-### Hi there 👋
+Hello, and welcome to my Github page!
 
-<!--
-**jamcog91/jamcog91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is James and this is where you can find all my new projects I am working on.
 
-Here are some ideas to get you started:
+In the last few months I have:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Graduated from Flation School with a certificate in Full Stack Engineering and
+Completed the React course certification from Codecademy
+*official certifications can be viewed on my LinkedIn*
+
+Current Work in Progress:
+
+Amazon Clone site ////
+Nomad -->
+*please note these are works in progress and unfisnished*
+
+Please feel free to brouse all my past projects and add me on LinkedIn!
