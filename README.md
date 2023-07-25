@@ -6,7 +6,7 @@ In the last few months I have:
 
 Graduated from Flation School with a certificate in Full Stack Engineering and
 Completed the React course certification from Codecademy
-*official certifications can be viewed on my LinkedIn*
+*official certifications can be viewed on my LinkedIn* => https://www.linkedin.com/in/james-michael-cogan/
 
 Current Work in Progress:
 
